@@ -1,0 +1,36 @@
+module github.com/litesql/go-kafka-ha
+
+go 1.27.1
+
+require (
+	github.com/litesql/go-ha v0.14.0
+	github.com/twmb/franz-go v1.22.2
+)
+
+require (
+	connectrpc.com/connect v1.21.1 // indirect
+	github.com/antithesishq/antithesis-sdk-go v0.8.0 // indirect
+	github.com/golang/protobuf v1.5.4 // indirect
+	github.com/google/go-tpm v0.9.8 // indirect
+	github.com/google/uuid v1.6.0 // indirect
+	github.com/hashicorp/golang-lru/v2 v2.0.7 // indirect
+	github.com/klauspost/compress v1.20.3 // indirect
+	github.com/minio/highwayhash v1.0.4 // indirect
+	github.com/nats-io/graft v0.0.0-20260325174230-f9e6710ae36e // indirect
+	github.com/nats-io/jwt/v2 v2.8.2 // indirect
+	github.com/nats-io/nats-server/v2 v2.15.1 // indirect
+	github.com/nats-io/nats.go v1.54.0 // indirect
+	github.com/nats-io/nkeys v0.4.16 // indirect
+	github.com/nats-io/nuid v1.0.1 // indirect
+	github.com/pierrec/lz4/v4 v4.1.33 // indirect
+	github.com/rqlite/sql v0.0.0-20261009033234-4555bb784427 // indirect
+	github.com/twmb/franz-go/pkg/kmsg v1.15.0 // indirect
+	golang.org/x/crypto v0.58.0 // indirect
+	golang.org/x/net v0.61.0 // indirect
+	golang.org/x/sys v0.49.0 // indirect
+	golang.org/x/text v0.43.0 // indirect
+	golang.org/x/time v0.16.0 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20261012220534-4341edf3f941 // indirect
+	google.golang.org/grpc v1.84.0 // indirect
+	google.golang.org/protobuf v1.36.12 // indirect
+)
